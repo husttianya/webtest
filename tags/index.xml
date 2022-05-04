@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on ETCGAMES</title>
-    <link>https://example.com/tags/</link>
+    <link>https://husttianya.github.io/tags/</link>
     <description>Recent content in Tags on ETCGAMES</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>© 2022.</copyright><atom:link href="https://example.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© 2022.</copyright><atom:link href="https://husttianya.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

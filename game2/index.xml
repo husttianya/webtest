@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Game2s on ETCGAMES</title>
-    <link>https://example.com/game2/</link>
+    <link>https://husttianya.github.io/game2/</link>
     <description>Recent content in Game2s on ETCGAMES</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>© 2022.</copyright><atom:link href="https://example.com/game2/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© 2022.</copyright><atom:link href="https://husttianya.github.io/game2/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>游戏2测试</title>
-      <link>https://example.com/game2/my-first-post/</link>
+      <link>https://husttianya.github.io/game2/my-first-post/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/game2/my-first-post/</guid>
+      <guid>https://husttianya.github.io/game2/my-first-post/</guid>
       <description></description>
     </item>
     
