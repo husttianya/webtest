@@ -2,18 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://husttianya.github.io/categories/</loc>
+    <loc>https://husttianya.github.io/webtest/categories/</loc>
   </url><url>
-    <loc>https://husttianya.github.io/</loc>
+    <loc>https://husttianya.github.io/webtest/</loc>
   </url><url>
-    <loc>https://husttianya.github.io/game1/</loc>
+    <loc>https://husttianya.github.io/webtest/game1/</loc>
   </url><url>
-    <loc>https://husttianya.github.io/game2/</loc>
+    <loc>https://husttianya.github.io/webtest/game2/</loc>
   </url><url>
-    <loc>https://husttianya.github.io/tags/</loc>
+    <loc>https://husttianya.github.io/webtest/tags/</loc>
   </url><url>
-    <loc>https://husttianya.github.io/game1/my-first-post/</loc>
+    <loc>https://husttianya.github.io/webtest/game1/my-first-post/</loc>
   </url><url>
-    <loc>https://husttianya.github.io/game2/my-first-post/</loc>
+    <loc>https://husttianya.github.io/webtest/game2/my-first-post/</loc>
   </url>
 </urlset>
